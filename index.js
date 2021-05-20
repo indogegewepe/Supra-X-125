@@ -2,14 +2,9 @@ const Discord = require('discord.js');
 
 const client = new Discord.Client();
 
-const { token } = require('./config.json');
-
 const { readdirSync } = require('fs');
 
 const { join } = require('path');
-
-const config = require('./config.json');
-client.config = config;
 
 const distube = require('distube');
 
