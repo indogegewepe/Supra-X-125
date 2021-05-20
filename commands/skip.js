@@ -1,5 +1,6 @@
 module.exports = {
     name: "skip",
+    name: "s",
     description: "Command to skip the queue",
 
     async run (client, message, args) {

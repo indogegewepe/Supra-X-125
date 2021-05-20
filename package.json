@@ -1,10 +1,6 @@
 {
   "name": "dc-1.0",
   "version": "1.0.0",
-  "engines": {
-    "node": "14.x",
-    "npm": "6.x"
-  },
   "description": "Njajal",
   "main": "index.js",
   "scripts": {
@@ -14,7 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "@discordjs/opus": "^0.5.0",
-    "@mapbox/node-pre-gyp": "^1.0.5",
     "discord.js": "^12.5.3",
     "discord.js-pagination": "^1.0.3",
     "distube": "^2.8.13",
