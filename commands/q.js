@@ -1,5 +1,5 @@
 module.exports = {
-    name: "queue",
+    name: "q",
     description: "Command to get song queue",
 
     async run (client, message, args) {
