@@ -33,7 +33,7 @@ client.on("error", console.error);
 
 client.on('ready', () => {
     console.log('Ready!');
-    client.user.setActivity( `with STREZZ`, { type: 'STREAMING', url: 'https://www.instagram.com/tsiqohhh/'})
+    client.user.setActivity( `my YouTube`, { name: 'Sedenter', type: 'WATCHING', url: 'https://www.youtube.com/channel/UCLO-9nUDXZbYZqtqhlq_1fw'})
 });
 
 client.on("message", async message => {
