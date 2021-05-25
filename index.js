@@ -33,8 +33,7 @@ client.on("error", console.error);
 
 client.on('ready', () => {
     console.log('Ready!');
-    client.user.setStatus(`idle`);
-    client.user.setActivity( `with STREZZ`, { type: 'STREAMING', url: 'https://www.youtube.com/watch?v=ba-XAIskH_g'})
+    client.user.setActivity( `with STREZZ`, { type: 'STREAMING', url: 'https://www.instagram.com/tsiqohhh/'})
 });
 
 client.on("message", async message => {
