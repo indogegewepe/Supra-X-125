@@ -1,4 +1,4 @@
-![Supra X 125](https://github.com/indogegewepe/Supra-X-125/blob/master/aset/supra.png)
+![Supra X 125](https://raw.githubusercontent.com/indogegewepe/Supra-X-125/refs/heads/master/aset/supra.png)
 
 # Supra X 125
 
